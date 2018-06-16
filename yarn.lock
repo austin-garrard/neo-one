@@ -318,9 +318,9 @@
     "@babel/helper-plugin-utils" "7.0.0-beta.49"
     "@babel/plugin-syntax-optional-catch-binding" "7.0.0-beta.49"
 
-"@babel/plugin-proposal-optional-catch-binding@^7.0.0-beta.51":
+"@babel/plugin-proposal-optional-catch-binding@7.0.0-beta.51":
   version "7.0.0-beta.51"
-  resolved "https://registry.npmjs.org/@babel/plugin-proposal-optional-catch-binding/-/plugin-proposal-optional-catch-binding-7.0.0-beta.51.tgz#3ecc6d2919d52c94cbfae8625da33582102fb3d6"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-optional-catch-binding/-/plugin-proposal-optional-catch-binding-7.0.0-beta.51.tgz#3ecc6d2919d52c94cbfae8625da33582102fb3d6"
   dependencies:
     "@babel/helper-plugin-utils" "7.0.0-beta.51"
     "@babel/plugin-syntax-optional-catch-binding" "7.0.0-beta.51"
@@ -868,9 +868,9 @@
     "@types/connect" "*"
     "@types/node" "*"
 
-"@types/bs58@^3.0.30":
+"@types/bs58@3.0.30":
   version "3.0.30"
-  resolved "https://registry.npmjs.org/@types/bs58/-/bs58-3.0.30.tgz#916ba10992465e56f81afc735e7935fd749893e1"
+  resolved "https://registry.yarnpkg.com/@types/bs58/-/bs58-3.0.30.tgz#916ba10992465e56f81afc735e7935fd749893e1"
   dependencies:
     "@types/base-x" "*"
 
@@ -923,9 +923,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/google-cloud__storage@^1.1.7":
+"@types/google-cloud__storage@1.1.7":
   version "1.1.7"
-  resolved "https://registry.npmjs.org/@types/google-cloud__storage/-/google-cloud__storage-1.1.7.tgz#f4b568b163cce16314f32f954f5b7d5c9001fa86"
+  resolved "https://registry.yarnpkg.com/@types/google-cloud__storage/-/google-cloud__storage-1.1.7.tgz#f4b568b163cce16314f32f954f5b7d5c9001fa86"
   dependencies:
     "@types/node" "*"
 
@@ -933,17 +933,17 @@
   version "1.3.0"
   resolved "https://registry.npmjs.org/@types/http-assert/-/http-assert-1.3.0.tgz#5e932606153da28e1d04f9043f4912cf61fd55dd"
 
-"@types/isomorphic-fetch@^0.0.34":
+"@types/isomorphic-fetch@0.0.34":
   version "0.0.34"
-  resolved "https://registry.npmjs.org/@types/isomorphic-fetch/-/isomorphic-fetch-0.0.34.tgz#3c3483e606c041378438e951464f00e4e60706d6"
+  resolved "https://registry.yarnpkg.com/@types/isomorphic-fetch/-/isomorphic-fetch-0.0.34.tgz#3c3483e606c041378438e951464f00e4e60706d6"
 
 "@types/jest@23.0.0":
   version "23.0.0"
   resolved "https://registry.npmjs.org/@types/jest/-/jest-23.0.0.tgz#760cac74f00bb9c3075587716d2b3b4435663bc0"
 
-"@types/js-priority-queue@^0.0.5":
+"@types/js-priority-queue@0.0.5":
   version "0.0.5"
-  resolved "https://registry.npmjs.org/@types/js-priority-queue/-/js-priority-queue-0.0.5.tgz#71065323ae2b87c168ec6a553bf074e29d985e53"
+  resolved "https://registry.yarnpkg.com/@types/js-priority-queue/-/js-priority-queue-0.0.5.tgz#71065323ae2b87c168ec6a553bf074e29d985e53"
 
 "@types/jss@^9.3.0":
   version "9.5.3"
@@ -960,22 +960,22 @@
   version "3.2.2"
   resolved "https://registry.npmjs.org/@types/koa-compose/-/koa-compose-3.2.2.tgz#dc106e000bbf92a3ac900f756df47344887ee847"
 
-"@types/koa-compress@^2.0.8":
+"@types/koa-compress@2.0.8":
   version "2.0.8"
-  resolved "https://registry.npmjs.org/@types/koa-compress/-/koa-compress-2.0.8.tgz#426a2fac419aff7d1a7d87fd78203bf0d26a94fb"
+  resolved "https://registry.yarnpkg.com/@types/koa-compress/-/koa-compress-2.0.8.tgz#426a2fac419aff7d1a7d87fd78203bf0d26a94fb"
   dependencies:
     "@types/koa" "*"
     "@types/node" "*"
 
-"@types/koa-mount@^3.0.1":
+"@types/koa-mount@3.0.1":
   version "3.0.1"
-  resolved "https://registry.npmjs.org/@types/koa-mount/-/koa-mount-3.0.1.tgz#2c068d1696b173c62c316158210c4316c4401f57"
+  resolved "https://registry.yarnpkg.com/@types/koa-mount/-/koa-mount-3.0.1.tgz#2c068d1696b173c62c316158210c4316c4401f57"
   dependencies:
     "@types/koa" "*"
 
-"@types/koa-router@^7.0.28":
+"@types/koa-router@7.0.28":
   version "7.0.28"
-  resolved "https://registry.npmjs.org/@types/koa-router/-/koa-router-7.0.28.tgz#67487c862a831099aed8864a8996bfa7e989edc0"
+  resolved "https://registry.yarnpkg.com/@types/koa-router/-/koa-router-7.0.28.tgz#67487c862a831099aed8864a8996bfa7e989edc0"
   dependencies:
     "@types/koa" "*"
 
@@ -995,21 +995,21 @@
   version "4.14.109"
   resolved "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.109.tgz#b1c4442239730bf35cabaf493c772b18c045886d"
 
-"@types/lru-cache@^4.1.1":
+"@types/lru-cache@4.1.1":
   version "4.1.1"
-  resolved "https://registry.npmjs.org/@types/lru-cache/-/lru-cache-4.1.1.tgz#b2d87a5e3df8d4b18ca426c5105cd701c2306d40"
+  resolved "https://registry.yarnpkg.com/@types/lru-cache/-/lru-cache-4.1.1.tgz#b2d87a5e3df8d4b18ca426c5105cd701c2306d40"
 
 "@types/mime@*":
   version "2.0.0"
   resolved "https://registry.npmjs.org/@types/mime/-/mime-2.0.0.tgz#5a7306e367c539b9f6543499de8dd519fac37a8b"
 
-"@types/node-cron@^1.2.0":
+"@types/node-cron@1.2.0":
   version "1.2.0"
-  resolved "https://registry.npmjs.org/@types/node-cron/-/node-cron-1.2.0.tgz#aefb50be6c09f7e6a1e4c074168698b526c0b543"
+  resolved "https://registry.yarnpkg.com/@types/node-cron/-/node-cron-1.2.0.tgz#aefb50be6c09f7e6a1e4c074168698b526c0b543"
 
-"@types/node-fetch@^2.1.1":
+"@types/node-fetch@2.1.1":
   version "2.1.1"
-  resolved "https://registry.npmjs.org/@types/node-fetch/-/node-fetch-2.1.1.tgz#1e8d0abf4c438828ce9c74b45d564a8a93e48cec"
+  resolved "https://registry.yarnpkg.com/@types/node-fetch/-/node-fetch-2.1.1.tgz#1e8d0abf4c438828ce9c74b45d564a8a93e48cec"
   dependencies:
     "@types/node" "*"
 
@@ -1044,15 +1044,15 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
-"@types/tar@^4.0.0":
+"@types/tar@4.0.0":
   version "4.0.0"
-  resolved "https://registry.npmjs.org/@types/tar/-/tar-4.0.0.tgz#e3239d969eeb693a012200613860d0eb871c94f0"
+  resolved "https://registry.yarnpkg.com/@types/tar/-/tar-4.0.0.tgz#e3239d969eeb693a012200613860d0eb871c94f0"
   dependencies:
     "@types/node" "*"
 
-"@types/through@^0.0.29":
+"@types/through@0.0.29":
   version "0.0.29"
-  resolved "https://registry.npmjs.org/@types/through/-/through-0.0.29.tgz#72943aac922e179339c651fa34a4428a4d722f93"
+  resolved "https://registry.yarnpkg.com/@types/through/-/through-0.0.29.tgz#72943aac922e179339c651fa34a4428a4d722f93"
   dependencies:
     "@types/node" "*"
 
@@ -1251,7 +1251,7 @@ anymatch@^2.0.0:
     micromatch "^3.1.4"
     normalize-path "^2.1.1"
 
-app-root-dir@^1.0.2:
+app-root-dir@1.0.2, app-root-dir@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/app-root-dir/-/app-root-dir-1.0.2.tgz#38187ec2dea7577fff033ffcb12172692ff6e118"
 
@@ -2205,7 +2205,7 @@ big.js@^3.1.3:
   version "3.2.0"
   resolved "https://registry.npmjs.org/big.js/-/big.js-3.2.0.tgz#a5fc298b81b9e0dca2e458824784b65c52ba588e"
 
-bignumber.js@^7.2.1:
+bignumber.js@7.2.1, bignumber.js@^7.2.1:
   version "7.2.1"
   resolved "https://registry.npmjs.org/bignumber.js/-/bignumber.js-7.2.1.tgz#80c048759d826800807c4bfd521e50edbba57a5f"
 
@@ -10553,9 +10553,9 @@ rxjs-compat@6.2.0:
   version "6.2.0"
   resolved "https://registry.npmjs.org/rxjs-compat/-/rxjs-compat-6.2.0.tgz#2eb49cc6ac20d0d7057c6887d1895beaab0966f9"
 
-rxjs-tslint-rules@^4.4.1:
+rxjs-tslint-rules@4.4.1:
   version "4.4.1"
-  resolved "https://registry.npmjs.org/rxjs-tslint-rules/-/rxjs-tslint-rules-4.4.1.tgz#6832b5565cdc5e95b7793f702ce5df70c558063a"
+  resolved "https://registry.yarnpkg.com/rxjs-tslint-rules/-/rxjs-tslint-rules-4.4.1.tgz#6832b5565cdc5e95b7793f702ce5df70c558063a"
   dependencies:
     "@phenomnomnominal/tsquery" "^1.0.5"
     decamelize "^2.0.0"
@@ -11637,44 +11637,44 @@ tslib@^1.7.1, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.9.2"
   resolved "https://registry.npmjs.org/tslib/-/tslib-1.9.2.tgz#8be0cc9a1f6dc7727c38deb16c2ebd1a2892988e"
 
-tslint-clean-code@^0.2.7:
+tslint-clean-code@0.2.7:
   version "0.2.7"
-  resolved "https://registry.npmjs.org/tslint-clean-code/-/tslint-clean-code-0.2.7.tgz#11ab8712cd117df9a8a4cc571d3e931651014677"
+  resolved "https://registry.yarnpkg.com/tslint-clean-code/-/tslint-clean-code-0.2.7.tgz#11ab8712cd117df9a8a4cc571d3e931651014677"
   dependencies:
     memoize-decorator "^1.0.2"
     tsutils "2.7.1"
 
-tslint-config-prettier@^1.13.0:
+tslint-config-prettier@1.13.0:
   version "1.13.0"
-  resolved "https://registry.npmjs.org/tslint-config-prettier/-/tslint-config-prettier-1.13.0.tgz#189e821931ad89e0364e4e292d5c44a14e90ecd6"
+  resolved "https://registry.yarnpkg.com/tslint-config-prettier/-/tslint-config-prettier-1.13.0.tgz#189e821931ad89e0364e4e292d5c44a14e90ecd6"
 
-tslint-consistent-codestyle@^1.13.1:
+tslint-consistent-codestyle@1.13.1:
   version "1.13.1"
-  resolved "https://registry.npmjs.org/tslint-consistent-codestyle/-/tslint-consistent-codestyle-1.13.1.tgz#7996913453f369f7321c5b49776c2bcf837461aa"
+  resolved "https://registry.yarnpkg.com/tslint-consistent-codestyle/-/tslint-consistent-codestyle-1.13.1.tgz#7996913453f369f7321c5b49776c2bcf837461aa"
   dependencies:
     "@fimbul/bifrost" "^0.9.0"
     tslib "^1.7.1"
     tsutils "^2.27.0"
 
-tslint-immutable@^4.6.0:
+tslint-immutable@4.6.0:
   version "4.6.0"
-  resolved "https://registry.npmjs.org/tslint-immutable/-/tslint-immutable-4.6.0.tgz#b93f50961c499e331d919084140f5034b84e80af"
+  resolved "https://registry.yarnpkg.com/tslint-immutable/-/tslint-immutable-4.6.0.tgz#b93f50961c499e331d919084140f5034b84e80af"
 
-tslint-language-service@^0.9.9:
+tslint-language-service@0.9.9:
   version "0.9.9"
-  resolved "https://registry.npmjs.org/tslint-language-service/-/tslint-language-service-0.9.9.tgz#f546dc38483979e6fb3cfa59584ad8525b3ad4da"
+  resolved "https://registry.yarnpkg.com/tslint-language-service/-/tslint-language-service-0.9.9.tgz#f546dc38483979e6fb3cfa59584ad8525b3ad4da"
   dependencies:
     mock-require "^2.0.2"
 
-tslint-microsoft-contrib@^5.0.3:
+tslint-microsoft-contrib@5.0.3:
   version "5.0.3"
-  resolved "https://registry.npmjs.org/tslint-microsoft-contrib/-/tslint-microsoft-contrib-5.0.3.tgz#6fc3e238179cd72045c2b422e4d655f4183a8d5c"
+  resolved "https://registry.yarnpkg.com/tslint-microsoft-contrib/-/tslint-microsoft-contrib-5.0.3.tgz#6fc3e238179cd72045c2b422e4d655f4183a8d5c"
   dependencies:
     tsutils "^2.12.1"
 
-tslint-sonarts@^1.7.0:
+tslint-sonarts@1.7.0:
   version "1.7.0"
-  resolved "https://registry.npmjs.org/tslint-sonarts/-/tslint-sonarts-1.7.0.tgz#1bcaf9f524c86b8d4cf9a2afae736edffd2e0dea"
+  resolved "https://registry.yarnpkg.com/tslint-sonarts/-/tslint-sonarts-1.7.0.tgz#1bcaf9f524c86b8d4cf9a2afae736edffd2e0dea"
   dependencies:
     immutable "^3.8.2"
 
